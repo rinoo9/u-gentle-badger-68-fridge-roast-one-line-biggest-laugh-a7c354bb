@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "Fridge Roast: One Line, Biggest Laugh" — one original line roasting a smart fridge.
 
-> "My smart fridge's ice maker files a complaint every time I open the door, like a bouncer charging rent for cubes made from my own tap water."
+> "My smart fridge started charging my leftovers rent. The yogurt owes two weeks, the pizza filed for eviction, and the ketchup is squatting."
 
-Character count: 140.
+Character count: 138.
 
 ## Run
 
