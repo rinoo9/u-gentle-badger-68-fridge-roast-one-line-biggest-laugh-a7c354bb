@@ -6,9 +6,9 @@ no randomness.
 """
 
 ENTRY = (
-    "My smart fridge's ice maker files a complaint every time I open "
-    "the door, like a bouncer charging rent for cubes made from my own "
-    "tap water."
+    "My smart fridge started charging my leftovers rent. The yogurt "
+    "owes two weeks, the pizza filed for eviction, and the ketchup "
+    "is squatting."
 )
 
 
