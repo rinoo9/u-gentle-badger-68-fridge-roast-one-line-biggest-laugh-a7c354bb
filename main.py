@@ -6,9 +6,9 @@ no randomness.
 """
 
 ENTRY = (
-    "My smart fridge started charging my leftovers rent. The yogurt "
-    "owes two weeks, the pizza filed for eviction, and the ketchup "
-    "is squatting."
+    "My smart fridge camera caught me eating ice cream at 2 a.m., "
+    "emailed my doctor, CC'd my mother, and left the freezer light "
+    "on as a warning."
 )
 
 
